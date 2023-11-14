@@ -1,0 +1,6 @@
+ema_workbench
+numpy
+pandas
+openpyxl
+pyESDL
+dill
